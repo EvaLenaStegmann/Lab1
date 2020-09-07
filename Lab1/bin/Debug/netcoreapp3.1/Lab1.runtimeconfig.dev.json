@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elste\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elste\\.nuget\\packages"
+    ]
+  }
+}
